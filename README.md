@@ -1,4 +1,6 @@
 # berryCADE
+![](images/logo.jpg?raw=true)
+
 ## Introduction
 An ANPR system running on a Raspberry Pi 3. It is able to detect the license plate's position in the image and extract the license plate text through Tesseract OCR. Validation result with database hosted on Heroku will control the GPIO outputs.
 
