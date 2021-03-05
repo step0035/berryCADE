@@ -1,0 +1,10 @@
+imutils==0.5.4
+numpy==1.20.1
+opencv-contrib-python==4.1.0.25
+picamera==1.13
+Pillow==8.1.1
+psycopg2==2.8.6
+pytesseract==0.3.7
+pyttsx3==2.90
+regex==2020.11.13
+RPi.GPIO==0.7.0
