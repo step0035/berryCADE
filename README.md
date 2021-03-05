@@ -24,3 +24,7 @@ An ANPR system running on a Raspberry Pi 3. It is able to detect the license pla
 
 ## Setup
 ![](images/setup.jpg?raw=true)
+
+## Files
+- run.py: Main file
+- createtable.py, insert.py: DB files
